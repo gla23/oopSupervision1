@@ -1,4 +1,4 @@
-package uk.ac.cam.gla23.oopjava.supervisions;
+package uk.ac.cam.gla23.oopjava.supervision1;
 
 // 7
 public class ListMain {
